@@ -1,0 +1,2 @@
+﻿Prof.Chen : Tell me what of these three pokemon you want ?
+	Bulbasaur	Charmander	Squirtle

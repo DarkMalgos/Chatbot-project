@@ -1,0 +1,9 @@
+Name : Squirtle (En)
+       Carapuce (Fr)
+       Zenigame (JP)
+Type : water
+height : 1' 08" (0.5 m)
+weight : 19.8 lbs (9.0 kg)
+Presentation : Squirtle's shell is not merely used for protection.
+The shell's rounded shape and the grooves on its surface help minimize resistance in water,
+enabling this Pokemon to swim at high speeds. 
